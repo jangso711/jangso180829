@@ -8,7 +8,8 @@
 <title>gitTest</title>
 </head>
 <body>
-step1 share project 연습
+step1 share project 연습<br>
+제 이름은 황의조입니다.
 
 </body>
 </html>
